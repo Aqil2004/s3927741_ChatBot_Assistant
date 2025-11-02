@@ -46,7 +46,11 @@ def load_and_process_kb(kb_path="KB", user_query=None):
     "File names: " + str(pdf_files)
     response = invoke_bedrock(cleaning_prompt)
     if response != "None":
-        pdf_files = ["KB\\" + f.strip() for f in response.split(",") if f.strip()]
+        pdf_files = [
+            os.path.join(kb_path, f.strip().replace("'", "").replace('"', ""))
+            for f in response.split(",")
+            if f.strip()
+        ]
         #st.text(pdf_files)
     kb_text = ""
     if pdf_files:
