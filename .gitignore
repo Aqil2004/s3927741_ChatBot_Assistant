@@ -1,0 +1,12 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+.venv/
+.devcontainer/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local data and large files
+KB/
+*.pdf
+*.log
