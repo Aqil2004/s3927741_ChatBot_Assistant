@@ -73,8 +73,8 @@ Signup at here:
 https://ap-southeast-2nfozbdvjd.auth.ap-southeast-2.amazoncognito.com/login?client_id=3p3lrenj17et3qfrnvu332dvka&response_type=code&scope=email+openid+phone&redirect_uri=https%3A%2F%2Fd84l1y8p4kdic.cloudfront.net
 
 ```
-USERNAME = "s3927741@student.rmit.edu.au" # Replace with your username
-PASSWORD = "OniiChanDaisuke<3"    # Replace with your password
+USERNAME = "" # Replace with your username
+PASSWORD = ""    # Replace with your password
 ```
 
 You can choose one of these model as you like:
