@@ -1,0 +1,337 @@
+[
+  {
+    "start_date": "25-12-2024",
+    "end_date": "01-01-2025",
+    "event": "University closed"
+  },
+  {
+    "date": "01-01-2025",
+    "event": "New Year's Day public holiday (Wednesday)"
+  },
+  {
+    "date": "01-01-2025",
+    "event": "Flexible term begins"
+  },
+  {
+    "date": "02-01-2025",
+    "event": "RMIT University reopens (Thursday)"
+  },
+  {
+    "date": "02-01-2025",
+    "event": "Summer Semester begins"
+  },
+  {
+    "date": "06-01-2025",
+    "event": "Summer Semester - last day to add classes"
+  },
+  {
+    "date": "12-01-2025",
+    "event": "Summer Semester - census date (Sunday)"
+  },
+  {
+    "date": "17-01-2025",
+    "event": "Spring Semester (2024) – last day to drop classes without academic penalty"
+  },
+  {
+    "start_date": "24-01-2025",
+    "end_date": "09-02-2025",
+    "event": "myTimetable preference entry period"
+  },
+  {
+    "date": "26-01-2025",
+    "event": "Australia Day public holiday (Sunday)"
+  },
+  {
+    "date": "27-01-2025",
+    "event": "Australia Day public holiday observed (Monday)"
+  },
+  {
+    "date": "31-01-2025",
+    "event": "Summer Semester - last date to drop classes without academic penalty"
+  },
+  {
+    "date": "07-02-2025",
+    "event": "Spring Semester (2024) classes end"
+  },
+  {
+    "date": "07-02-2025",
+    "event": "Summer Semester classes end"
+  },
+  {
+    "start_date": "10-02-2025",
+    "end_date": "14-02-2025",
+    "event": "Spring (2024)/Summer assessment period"
+  },
+  {
+    "date": "17-02-2025",
+    "event": "myTimetable review and allocation adjustment period opens (Monday)"
+  },
+  {
+    "date": "21-02-2025",
+    "event": "Spring (2024)/Summer results released"
+  },
+  {
+    "start_date": "24-02-2025",
+    "end_date": "28-02-2025",
+    "event": "Orientation"
+  },
+  {
+    "date": "03-03-2025",
+    "event": "Semester 1 classes begin"
+  },
+  {
+    "date": "10-03-2025",
+    "event": "Labour Day public holiday (Monday)"
+  },
+  {
+    "date": "11-03-2025",
+    "event": "Last day for applicants to enrol for Semester 1"
+  },
+  {
+    "date": "11-03-2025",
+    "event": "Last day to add classes for Semester 1 - School of Art, and School of Architecture and Urban Design only"
+  },
+  {
+    "date": "16-03-2025",
+    "event": "Last day to add classes for Semester 1 (not including School of Art and School of Architecture and Urban Design)"
+  },
+  {
+    "date": "31-03-2025",
+    "event": "Semester 1 census date"
+  },
+  {
+    "date": "01-04-2025",
+    "event": "myTimetable allocation adjustment period closes (Tuesday)"
+  },
+  {
+    "date": "18-04-2025",
+    "event": "Good Friday public holiday"
+  },
+  {
+    "start_date": "18-04-2025",
+    "end_date": "25-04-2025",
+    "event": "Mid-semester break (Friday to Friday, includes Easter)"
+  },
+  {
+    "date": "21-04-2025",
+    "event": "Easter Monday public holiday"
+  },
+  {
+    "date": "22-04-2025",
+    "event": "Easter Tuesday RMIT holiday"
+  },
+  {
+    "date": "25-04-2025",
+    "event": "Anzac Day public holiday (Friday)"
+  },
+  {
+    "date": "28-04-2025",
+    "event": "Classes resume (Monday)"
+  },
+  {
+    "date": "02-05-2025",
+    "event": "Last day to drop classes without academic penalty for Semester 1"
+  },
+  {
+    "date": "02-05-2025",
+    "event": "Last day to withdraw from program by cancelling enrolment or taking leave of absence without academic penalty for Semester 1"
+  },
+  {
+    "date": "23-05-2025",
+    "event": "Equitable assessment arrangement registrations close for Semester 1"
+  },
+  {
+    "date": "09-06-2025",
+    "event": "King's Birthday public holiday (Monday)"
+  },
+  {
+    "start_date": "10-06-2025",
+    "end_date": "22-06-2025",
+    "event": "myTimetable preference entry period for Semester 2"
+  },
+  {
+    "start_date": "10-06-2025",
+    "end_date": "27-06-2025",
+    "event": "Semester 1 assessment period"
+  },
+  {
+    "start_date": "30-06-2025",
+    "end_date": "20-07-2025",
+    "event": "Semester break"
+  },
+  {
+    "date": "30-06-2025",
+    "event": "myTimetable review and allocation adjustment for Semester 2 opens (Monday)"
+  },
+  {
+    "date": "14-07-2025",
+    "event": "Official results release date"
+  },
+  {
+    "start_date": "21-07-2025",
+    "end_date": "25-07-2025",
+    "event": "Deferred assessment period (from Semester 1)"
+  },
+  {
+    "start_date": "14-07-2025",
+    "end_date": "18-07-2025",
+    "event": "Mid-year Orientation"
+  },
+  {
+    "date": "21-07-2025",
+    "event": "Semester 2 classes begin"
+  },
+  {
+    "date": "28-07-2025",
+    "event": "Last day for applicants to enrol for Semester 2"
+  },
+  {
+    "date": "28-07-2025",
+    "event": "Last day to add classes for Semester 2 - School of Art, and School of Architecture and Urban Design only"
+  },
+  {
+    "date": "03-08-2025",
+    "event": "Last day to add classes for Semester 2 (not including School of Art and School of Architecture and Urban Design)"
+  },
+  {
+    "date": "15-08-2025",
+    "event": "myTimetable allocation adjustment period closes (Friday)"
+  },
+  {
+    "date": "31-08-2025",
+    "event": "Semester 2 census date"
+  },
+  {
+    "date": "01-09-2025",
+    "event": "Spring Semester enrolment opens"
+  },
+  {
+    "start_date": "01-09-2025",
+    "end_date": "07-09-2025",
+    "event": "Mid-semester break"
+  },
+  {
+    "date": "08-09-2025",
+    "event": "Classes resume"
+  },
+  {
+    "date": "19-09-2025",
+    "event": "Last day to drop classes without academic penalty for Semester 2"
+  },
+  {
+    "date": "19-09-2025",
+    "event": "Last day to withdraw from program by cancelling enrolment or taking leave of absence without academic penalty for Semester 2"
+  },
+  {
+    "date": "26-09-2025",
+    "event": "AFL Grand Final public holiday (Friday)"
+  },
+  {
+    "date": "01-10-2025",
+    "event": "Enrolment Online opens for 2026 enrolments"
+  },
+  {
+    "date": "10-10-2025",
+    "event": "Equitable assessment arrangement registrations close for Semester 2 examination period"
+  },
+  {
+    "date": "24-10-2025",
+    "event": "Last day to apply to graduate and confirm attendance at the 2025 Melbourne Graduation Ceremony"
+  },
+  {
+    "start_date": "27-10-2025",
+    "end_date": "14-11-2025",
+    "event": "Semester 2 assessment period"
+  },
+  {
+    "date": "04-11-2025",
+    "event": "Melbourne Cup Day public holiday (Tuesday)"
+  },
+  {
+    "date": "17-11-2025",
+    "event": "Spring Semester (2025) begins"
+  },
+  {
+    "date": "24-11-2025",
+    "event": "Last date to add classes for Spring Semester"
+  },
+  {
+    "date": "01-12-2025",
+    "event": "Official results release date"
+  },
+  {
+    "start_date": "01-12-2025",
+    "end_date": "05-12-2025",
+    "event": "Deferred assessment period (from Semester 2)"
+  },
+  {
+    "date": "06-12-2025",
+    "event": "Spring Semester census date (Saturday)"
+  },
+  {
+    "date": "17-12-2025",
+    "event": "Melbourne Graduation Parade and Ceremony (Wednesday)"
+  },
+  {
+    "date": "22-12-2025",
+    "event": "Deadline for timely re-enrolment: last day for continuing students to re-enrol for 2026 – by 5pm"
+  },
+  {
+    "start_date": "25-12-2025",
+    "end_date": "01-01-2026",
+    "event": "RMIT closed"
+  },
+  {
+    "date": "25-12-2025",
+    "event": "Christmas Day public holiday (Thursday)"
+  },
+  {
+    "date": "26-12-2025",
+    "event": "Boxing Day public holiday (Friday)"
+  },
+  {
+    "date": "31-12-2025",
+    "event": "Flexible term ends"
+  },
+  {
+    "date": "01-01-2026",
+    "event": "New Year’s Day (Thursday)"
+  },
+  {
+    "date": "02-01-2026",
+    "event": "RMIT University re-opens (Friday)"
+  },
+  {
+    "date": "02-01-2026",
+    "event": "Summer Semester begins"
+  },
+  {
+    "date": "12-01-2026",
+    "event": "Summer Semester - last day to add classes"
+  },
+  {
+    "date": "13-01-2026",
+    "event": "Summer Semester census date"
+  },
+  {
+    "date": "23-01-2026",
+    "event": "Spring Semester (2025) – last day to drop classes without academic penalty"
+  },
+  {
+    "date": "06-02-2026",
+    "event": "Summer Semester – last day to drop classes without academic penalty"
+  },
+  {
+    "date": "13-02-2026",
+    "event": "Spring Semester (2025) classes end"
+  },
+  {
+    "date": "13-02-2026",
+    "event": "Summer Semester classes end"
+  },
+  {
+    "start_date": "16-02-2026",
+    "end_date": "20-02-2026",
+    "event": "Spring (2025)/Summer assessment period"
+  }
+]
