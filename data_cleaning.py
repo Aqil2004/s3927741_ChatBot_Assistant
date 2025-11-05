@@ -67,15 +67,10 @@ def clean_user_query(query: str) -> str:
     if not query:
         return ""
 
-    # Add space before punctuation if missing
-    query = re.sub(r'(?<!\s)([?!.,;:])', r' \1', query)
+    # Remove punctuation and special characters (except letters, numbers, and spaces)
+    query = re.sub(r"[^\w\s]", "", query)
 
-    # Normalize quotation marks and ensure spacing
-    query = query.replace("“", '"').replace("”", '"').replace("‘", "'").replace("’", "'")
-    query = re.sub(r'(?<!\s)(["\'])', r' \1', query)  # space before quotes
-    query = re.sub(r'(["\'])(?!\s)', r'\1 ', query)   # space after quotes
-
-    # Remove multiple spaces
-    query = re.sub(r'\s+', ' ', query).strip()
+    # Collapse multiple spaces into one
+    query = re.sub(r"\s+", " ", query).strip()
 
     return query
