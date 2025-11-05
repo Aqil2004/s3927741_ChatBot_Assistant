@@ -9,7 +9,7 @@ from datetime import datetime
 from PyPDF2 import PdfReader
 
 #custom imports
-from data_cleaning import clean_course_data, remove_duplicate_courses, clean_pdf_text, retrieve_relevant_text
+from data_cleaning import clean_course_data, remove_duplicate_courses, clean_pdf_text, retrieve_relevant_text, clean_user_query
 import os
 
 # === AWS Configuration === #
@@ -282,7 +282,7 @@ user_question = st.text_input(
     "\U0001F4AC What would you like to ask?",
     placeholder="e.g., I'm a second-year student interested in digital forensics and blockchain."
 )
-
+user_question = clean_user_query(user_question) #make it easier to work with
 
 if st.button("\U0001F4A1 Get Advice"):
     if not user_question:
