@@ -62,3 +62,20 @@ def clean_pdf_text(text):
     text = text.replace("•", "-")                       # Normalise bullet points
     text = text.strip()
     return text
+
+def clean_user_query(query: str) -> str:
+    if not query:
+        return ""
+
+    # Add space before punctuation if missing
+    query = re.sub(r'(?<!\s)([?!.,;:])', r' \1', query)
+
+    # Normalize quotation marks and ensure spacing
+    query = query.replace("“", '"').replace("”", '"').replace("‘", "'").replace("’", "'")
+    query = re.sub(r'(?<!\s)(["\'])', r' \1', query)  # space before quotes
+    query = re.sub(r'(["\'])(?!\s)', r'\1 ', query)   # space after quotes
+
+    # Remove multiple spaces
+    query = re.sub(r'\s+', ' ', query).strip()
+
+    return query
