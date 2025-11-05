@@ -40,8 +40,8 @@ def load_and_process_kb(kb_path="KB", user_query=None):
     _, pdf_files = load_local_kb(kb_path)
     query = user_query if user_query and user_query.strip() else "general info"
     cleaning_prompt = "You are an answering assistant that gives precise answers. I have a query and a list of file names. I need you to " \
-    "check which of these file names would match the query's needs. If you cannot find any matches strictly and only respond with 'None' " \
-    "otherwise strictly and only respond with each file name seperated by a comma (e.g. 'Course_1.pdf,Course_233.pdf,Ligaments.json')." \
+    "check which of these file names would match the query's needs. If you cannot find any close matches then only respond with 'None' " \
+    "otherwise only respond with each file name seperated by a comma (e.g. 'Course_1.pdf,Course_233.pdf,Ligaments.json')." \
     "Query: " + str(query) + "" \
     "File names: " + str(pdf_files)
     response = invoke_bedrock(cleaning_prompt)
